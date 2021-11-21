@@ -1,0 +1,5 @@
+export const DUMMY_MEETUPS = [
+  {id: "m1", title: "First meeting",  image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Park_in_Sunbrid_Close_Parrearra_Queensland.jpg/640px-Park_in_Sunbrid_Close_Parrearra_Queensland.jpg", address: "100 Main St, AnyTown USA",  description: "This is the first meetup."},
+  {id: "m2", title: "Second meeting", image: "https://upload.wikimedia.org/wikipedia/commons/f/f1/2014_Szczytna%2C_fontanna.JPG", address: "200 Main St, AnyTown USA",  description: "This is the second meeting."},
+  {id: "m3", title: "Third meeting", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/East_abutment_of_former_Slatersville_Reservoir_rail_bridge%2C_June_2021.jpg/640px-East_abutment_of_former_Slatersville_Reservoir_rail_bridge%2C_June_2021.jpg", address: "300 Main St, AnyTown USA",  description: "This is the third get together."}
+];
